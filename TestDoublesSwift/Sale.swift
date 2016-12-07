@@ -2,7 +2,7 @@ import Foundation
 
 class Sale {
     
-    func scan(barcode: String) {
+    func scan(_ barcode: String) {
         print("Milk £3.99")
     }
     
